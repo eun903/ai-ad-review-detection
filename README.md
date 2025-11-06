@@ -20,11 +20,14 @@
 
 ### 기술 스택
 | 구분 | 사용 기술 |
+|------|------------|
 | **Frontend** | React, HTML, CSS, JavaScript |
-| **Backend** | Spring Boot, Java, REST API |
-| **AI Server** | python, Fast API, SentenceTransformer (MiniLM), Google Gemini API|
+| **Backend** | Spring Boot, Java |
+| **AI Server** | FastAPI, Python, SentenceTransformer (all-MiniLM-L6-v2), Google Gemini API |
 | **Database** | MySQL |
+| **Visualization** | Recharts (Pie Chart) |
 | **Infra / Tool** | GitHub, Google Cloud, JWT Authentication |
+
  ---
 
  ### 📂 프로젝트 구조
